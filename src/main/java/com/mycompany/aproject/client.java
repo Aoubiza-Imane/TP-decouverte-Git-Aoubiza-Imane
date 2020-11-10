@@ -12,4 +12,5 @@ package com.mycompany.aproject;
 public class client {
     // salut ceci est une classe java
     // Commentaire inutile.
+    // conflictuel   
 }
